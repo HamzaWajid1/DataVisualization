@@ -1,1 +1,2 @@
 # DataVisualization
+This project introduced me to the idea of data visualization and enabled me to explore how raw data can be used for analysis purposes which is very essential for making predictions about future.I did around 80% of the coding part which transformed the data so it can be visualized. Although I didn't participate in visualization part but still coding the logic was very helpful in understanding the intuition behind data visualization
